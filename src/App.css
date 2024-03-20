@@ -1,0 +1,6 @@
+.custom-bullet-color li::marker {
+  color: rgb(79, 79, 190); /* Set bullet color to blue */
+}
+.backdrop-filter {
+  backdrop-filter: blur(4px); /* Adjust blur level as needed */
+}
